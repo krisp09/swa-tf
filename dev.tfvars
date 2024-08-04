@@ -1,0 +1,1 @@
+ami="ami-0b2ec65899cc867ef"
